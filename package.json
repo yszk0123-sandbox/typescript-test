@@ -1,0 +1,24 @@
+{
+  "name": "typescript-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc",
+    "test": "tsc --noEmit"
+  },
+  "devDependencies": {
+    "@types/lodash": "^4.14.133",
+    "@types/react": "^16.8.19",
+    "ts-node": "^8.2.0",
+    "typescript": "^3.5.1"
+  },
+  "dependencies": {
+    "@types/node": "^12.0.4",
+    "es6-error": "^4.1.1",
+    "lodash": "^4.17.11",
+    "react": "^16.8.6",
+    "reflect-metadata": "^0.1.13",
+    "typesafe-actions": "^4.4.0"
+  }
+}
