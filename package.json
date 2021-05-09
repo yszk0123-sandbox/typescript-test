@@ -16,7 +16,7 @@
   "dependencies": {
     "@types/node": "^12.0.4",
     "es6-error": "^4.1.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "react": "^16.8.6",
     "reflect-metadata": "^0.1.13",
     "typesafe-actions": "^4.4.0"
